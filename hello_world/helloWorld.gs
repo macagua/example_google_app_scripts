@@ -1,3 +1,3 @@
 function helloWorld() {
-    Looger.log("Hello World")
+    console.log("Hello World")
 }
